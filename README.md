@@ -7,7 +7,7 @@ Description: Trained model using XGBoost with inputs from WRF-Chem simulations i
 This repository contains the file for the trained XGBoost model in relation to this manuscript: 
 - **Title:** Machine learning-based modeling framework for predicting near-surface PM2.5 informed by a chemistry transport model
 - **Authors:** Roseanne V. Ramos, Alvin Christopher G. Varquez, Maria Deandra A. Sayson, Zeyu Chen, Ryoga Hiroki, Atsushi Inagaki, Manabu Kanda, Paul T. Griffiths
-(Submitted to Scientific Reports journal)
+- **Journal:** Scientific Reports (submitted for review)
 
 
 Relevant sections of the manuscript associated with this file:
